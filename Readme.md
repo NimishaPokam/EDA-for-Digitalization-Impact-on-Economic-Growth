@@ -1,6 +1,6 @@
 ## Project Overview  
 This project investigates the impact of digitalization on economic growth using a Cobb-Douglas production function framework. Economic growth, the dependent variable, is measured as GDP per capita in constant 2015 US dollars. The study incorporates digitalization indicators and macroeconomic control variables to analyze their relationship and influence on economic performance.  
-The dataset used for this analysis is sourced from Mendeley Data.
+The dataset used for this analysis is sourced from [Mendeley Data](https://data.mendeley.com/datasets/ctm7vvpp7n/1)
 
 ---
 
